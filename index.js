@@ -1,10 +1,16 @@
-const name = "Ahsan";
-let number = 574395;
-var age = 20;
+// bigint 
+// String
+// boolean
+// undefiend
+// null
+// sysmbol
 
-let a ;
-a = 96
 
-age = 239
-number = 94559;
-console.table([name,age,number,a])
+let a = 5454366554;
+let b = "String";
+let c = false;
+let d ;
+let e = null;
+let f = '$'
+
+console.table([a,b,c,d,e,f])
