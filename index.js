@@ -13,4 +13,4 @@ let d ;
 let e = null;
 let f = '$'
 
-console.table([a,b,c,d,e,f])
+console.table([typeof a,typeof b,typeof c,typeof d,typeof e,typeof f])
